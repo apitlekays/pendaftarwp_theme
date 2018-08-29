@@ -1,0 +1,17 @@
+/*
+Theme Name: Pendaftar WP Theme
+Theme URI: https://www.pendaftar.upsi.edu.my
+Author: DrHafizHanif
+Author URI: http://www.drhafizhanif.my
+Description: A bespoke Wordpress theme built specifically for UPSI websites
+Version: 0.1
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: pendaftarupsi
+
+This theme is forked from http://bulmapress.com/, which is based on Underscores http://underscores.me/, (C) 2012-2016 Automattic, Inc.
+Underscores is distributed under the terms of the GNU GPL v2 or later.
+
+Main stylesheet: /assets/css/style.min.css
+Bulma Sass: /node_modules/bulma/sass/
+Theme Sass: /assets/src/scss/
